@@ -7,7 +7,7 @@
 ### <a name="chapter-1"></a>Specifications 
 ````
  OpenJDK8
- Spring Boot 2.3.1.RELEASE
+ Spring Boot 2.6.0
  Spring Data Jpa
  Gradle
  lombok
